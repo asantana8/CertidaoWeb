@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: LG
+Build-Jdk: 17
+Implementation-Title: Certidão Web Unificada
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.jus.trf5
+Implementation-Vendor: MPS Informática Ltda.
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/CertidaoWebUnificada
+Created-By: Maven Integration for Eclipse
+
